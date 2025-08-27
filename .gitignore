@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+
+# Environments
+.env
+.venv
+
+# MacOS
+.DS_Store
+
+# Machine Learning specific
+models/
+checkpoints/
+logs/
+wandb/
+
+# Data files
+data/
+
+# Generated images
+generated_images/
+samples/
+outputs/
+results/
