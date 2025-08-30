@@ -9,22 +9,18 @@ license = {text = "MIT"}
 dependencies = [
     # Core ML libraries
     "torch>=2.0.0",
-    "torchvision>=0.15.0", 
+    "torchvision>=0.15.0",
     "numpy>=1.24.0",
     "matplotlib>=3.7.0",
     "Pillow>=9.5.0",
-    
     # Data handling
     "pandas>=2.0.0",
-    
     # Visualization and monitoring
     "tensorboard>=2.13.0",
     "tensorboardX>=2.6",
-    
     # Jupyter for experimentation
     "jupyter>=1.0.0",
     "ipykernel>=6.23.0",
-    
     # Development tools
     "tqdm>=4.65.0",
 ]
