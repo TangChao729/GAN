@@ -1,3 +1,19 @@
+# GAN (Work in Progress)
+
+## Overview
+
+This project is a work in progress.
+I plan to use this project to learn about GANs - including the basics, the theory, and the implementation.
+I picked several key developments in GAN milestones:
+
+- [x] 2014: Vanilla GAN
+- [ ] 2015: DCGAN
+- [ ] 2016: WGAN
+- [ ] 2018: StyleGAN
+
+GAN is a complex and fascinating topic, however the image generation capabilities are considered superseded by other techniques such as Diffusion Models, which will be discussed in another project.
+
+
 ## Getting Started
 
 ### Option 1: Using uv (Recommended - faster)
